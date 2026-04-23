@@ -1,0 +1,6 @@
+{
+  "name": "MediChat AI",
+  "description": "An AI-powered medical assistant for health queries and recommendations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
